@@ -55,16 +55,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "가즈아.md",
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "가즈아"
+              "title": "Git"
+            }
+          },
+          {
+            "id": "25bcd433a6f14b5c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2025-03-21 22.11.49.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-21 22.11.49.excalidraw"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "8a35fd1df5e96b10",
@@ -229,12 +241,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8808cedb2e3955b4",
+  "active": "25bcd433a6f14b5c",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-03-21 22.10.53.excalidraw.md",
-    "가즈아.md",
-    "Excalidraw",
     "Git.md",
+    "Drawing 2025-03-21 22.11.49.excalidraw.md",
+    "가즈아.md",
+    "Excalidraw/Drawing 2025-03-21 22.10.53.excalidraw.md",
+    "Excalidraw",
     "Readme.md",
     "무제"
   ]
