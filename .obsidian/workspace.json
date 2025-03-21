@@ -13,83 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Readme"
-            }
-          },
-          {
-            "id": "1d78d9edd7a5e840",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git"
-            }
-          },
-          {
-            "id": "3fce7f4a3f5af1cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "가즈아.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "가즈아"
-            }
-          },
-          {
-            "id": "3a86537c5493f953",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git"
-            }
-          },
-          {
-            "id": "25bcd433a6f14b5c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawing 2025-03-21 22.11.49.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-21 22.11.49.excalidraw"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "8a35fd1df5e96b10",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4d55882788419086",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -241,14 +170,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "25bcd433a6f14b5c",
+  "active": "3add243b990972c9",
   "lastOpenFiles": [
-    "Git.md",
     "Drawing 2025-03-21 22.11.49.excalidraw.md",
+    "Git.md",
+    "Readme.md",
     "가즈아.md",
     "Excalidraw/Drawing 2025-03-21 22.10.53.excalidraw.md",
     "Excalidraw",
-    "Readme.md",
     "무제"
   ]
 }
