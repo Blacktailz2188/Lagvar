@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "Git"
             }
+          },
+          {
+            "id": "3fce7f4a3f5af1cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "가즈아.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "가즈아"
+            }
+          },
+          {
+            "id": "3a86537c5493f953",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "가즈아.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "가즈아"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "8a35fd1df5e96b10",
@@ -49,7 +77,7 @@
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "title": "Graph view"
             }
           }
         ]
@@ -75,7 +103,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
@@ -191,20 +219,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "obsidian-git:Open Git source control": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1d78d9edd7a5e840",
+  "active": "8808cedb2e3955b4",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-03-21 22.10.53.excalidraw.md",
     "가즈아.md",
-    "Readme.md",
+    "Excalidraw",
     "Git.md",
+    "Readme.md",
     "무제"
   ]
 }
