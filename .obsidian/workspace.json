@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Bullet Cleaner/Scenario.md",
+                "file": "Manual/옵시디언 팀원 메뉴얼.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scenario"
+              "title": "옵시디언 팀원 메뉴얼"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "3add243b990972c9",
   "lastOpenFiles": [
-    "Project/Bullet Cleaner/Canvas.md",
     "Project/Bullet Cleaner/Scenario.md",
+    "Project/Bullet Cleaner/Canvas.md",
     "Attached files/Pasted Image 20250322020158_020.png",
     "Attached files/Pasted Image 20250322020135_556.png",
     "Attached files/Pasted Image 20250322020120_548.png",
