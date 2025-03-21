@@ -11,12 +11,14 @@
             "id": "3add243b990972c9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Project/Bullet Cleaner/Canvas.md"
+                "file": "Project/Bullet Cleaner/Scenario.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Canvas"
+              "icon": "lucide-file",
+              "title": "Scenario"
             }
           }
         ]
@@ -168,10 +170,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8808cedb2e3955b4",
+  "active": "3add243b990972c9",
   "lastOpenFiles": [
-    "Project/Bullet Cleaner/Scenario.md",
     "Project/Bullet Cleaner/Canvas.md",
+    "Project/Bullet Cleaner/Scenario.md",
     "Manual/옵시디언 팀원 메뉴얼.md",
     "Manual/팀 링크.md",
     "Attached files/Pasted image 20250322021127.png",
