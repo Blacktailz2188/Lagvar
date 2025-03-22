@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manual/팀 링크.md",
+                "file": "Project/Bullet Cleaner/Scenario.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "팀 링크"
+              "title": "Scenario"
             }
           }
         ]
@@ -172,13 +172,13 @@
   },
   "active": "3add243b990972c9",
   "lastOpenFiles": [
+    "Project/Bullet Cleaner/Canvas.md",
+    "Manual/팀 링크.md",
     "Manual/언리얼 엔진 사용자.md",
     "Untitled mindmap.md",
     "Manual/옵시디언 사용법.md",
     "Project/Bullet Cleaner/Scenario.md",
-    "Project/Bullet Cleaner/Canvas.md",
     "Issue/Unreal Engine/무제.md",
-    "Manual/팀 링크.md",
     "Issue/Unreal Engine",
     "Issue",
     "Manual/옵시디언 팀원 메뉴얼.md",
