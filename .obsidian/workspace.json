@@ -11,12 +11,14 @@
             "id": "3add243b990972c9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Project/Bullet Cleaner/Canvas.md"
+                "file": "Manual/옵시디언 팀원 메뉴얼.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Canvas"
+              "icon": "lucide-file",
+              "title": "옵시디언 팀원 메뉴얼"
             }
           }
         ]
@@ -170,9 +172,9 @@
   },
   "active": "3add243b990972c9",
   "lastOpenFiles": [
+    "Manual/팀 링크.md",
     "Project/Bullet Cleaner/Scenario.md",
     "Project/Bullet Cleaner/Canvas.md",
-    "Manual/팀 링크.md",
     "Manual/옵시디언 팀원 메뉴얼.md",
     "Attached files/Pasted image 20250322021127.png",
     "Attached files/Pasted Image 20250322020158_020.png",
